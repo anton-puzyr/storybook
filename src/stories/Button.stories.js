@@ -39,4 +39,5 @@ export const Grey = Template.bind({});
 Grey.args = {
   size: 'small',
   color: 'grey',
+  label: 'Button',
 };
